@@ -16,5 +16,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areo26&show_icons=true&theme=tokyonight&locale=en" alt="areo26" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areo26&" alt="areo26" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areo26&theme=tokyonight" alt="areo26" /></p>
 
